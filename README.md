@@ -1,2 +1,12 @@
-# hello-github
-내 깃헙 첫 번째 연습용 저장소
+# Easy Git & Github
+
+git과 github 공부용 저장소
+
+## 전체 강좌 목록 보기
+
+- https://nextstep.camp/coursse/-L6-ES5-WFWp9mKmOhE-
+
+## Special Thanks
+
+- http://inflearn.com
+- Music.: https://www.bensound.com
